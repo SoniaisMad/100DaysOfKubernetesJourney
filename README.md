@@ -2,7 +2,14 @@
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
 
-## [✍️ Sonia ]'s Kubernetes Journey
+## Sonia's Kubernetes Journey
+
+## My Goal
+
+I want to make a move from Backend Engineer to Devops Engineer in the future.  
+So i need to deepen my knowlegde about K8s.
+My end goal will be to deploy a K8s cluster on a Raspberry Pi while understanding all the steps (not just following some tutorial).  
+I will document my progression here and on Twitter !
 
 ## Resources 
 
@@ -10,6 +17,9 @@
 - [✍️  TechWorld with Nana ](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [✍️  Introduction to K8s - Linux Foundation ](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 - [✍️  K8s basics - Kubernetes.io official ](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/)
+- [✍️  Understanding K8s in a Visual Way by Aurelie Vache ](https://www.youtube.com/watch?v=a1Uwoq1Yv6U)
+
+
 
 ### Your Social
 - [✍️  My Twitter ](https://twitter.com/zoun)
