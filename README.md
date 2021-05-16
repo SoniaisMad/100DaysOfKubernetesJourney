@@ -5,8 +5,8 @@
 ## [✍️ Your Name]'s Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ My Twitter ---> ](https://twitter.com/zoun)
+- [✍️ My Linkedin ---> ](www.linkedin.com/in/sonia-manoubi-nice)
 
 ## Stepping out the door
 
