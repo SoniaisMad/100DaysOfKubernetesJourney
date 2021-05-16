@@ -2,11 +2,18 @@
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
 
-## [✍️ Your Name]'s Kubernetes Journey
+## [✍️ Sonia ]'s Kubernetes Journey
+
+## Resources 
+
+### Free : 
+- [✍️  TechWorld with Nana ](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+- [✍️  Introduction to K8s - Linux Foundation ](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+- [✍️  K8s basics - Kubernetes.io official ](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/)
 
 ### Your Social
-- [✍️ My Twitter ---> ](https://twitter.com/zoun)
-- [✍️ My Linkedin ---> ](www.linkedin.com/in/sonia-manoubi-nice)
+- [✍️  My Twitter ](https://twitter.com/zoun)
+- [✍️  My Linkedin ](www.linkedin.com/in/sonia-manoubi-nice)
 
 ## Stepping out the door
 
