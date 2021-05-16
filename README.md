@@ -7,7 +7,7 @@
 ## My Goal
 
 I want to make a move from Backend Engineer to Devops Engineer in the future.  
-So i need to deepen my knowlegde about K8s.
+So i need to deepen my knowlegde about K8s.  
 My end goal will be to deploy a K8s cluster on a Raspberry Pi while understanding all the steps (not just following some tutorial).  
 I will document my progression here and on Twitter !
 
