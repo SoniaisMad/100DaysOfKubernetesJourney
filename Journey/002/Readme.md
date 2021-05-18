@@ -1,15 +1,13 @@
-# New post title here
+# Kubernetes architecture
 
-## Introduction
+## Resources used : 
 
+-> Linux Foundation :
 
-## Prerequisite
+Chapter 4. 
+-> TechWorld With Nana :
 
+Kubernetes architecture explained in 15 minutes
 
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+Worker nodes : container runtime / kube proxy / kubelet
+Master nodes : api server / scheduler / controller manager / etcd
