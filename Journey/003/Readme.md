@@ -1,15 +1,15 @@
-# New post title here
+# K8s installation
 
-## Introduction
+## Resources used
+
+Linux Foundation : 
+
+- chapter 5 : K8S installation 
+
+Minikube documentation (https://minikube.sigs.k8s.io/docs/start/)
+
+- Installing minikube on MacOs
 
 
-## Prerequisite
 
 
-## Use Case
-
-
-## Research
-
-
-## Try yourself
