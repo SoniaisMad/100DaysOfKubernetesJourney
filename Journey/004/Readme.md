@@ -1,15 +1,14 @@
-# New post title here
+# Accessing Minikube
 
-## Introduction
+## Resources Used
 
+-> Linux Foundation
 
-## Prerequisite
+Chapter 7 - Accessing Minikube
 
+- kubectl
+- k8s dashboard
 
-## Use Case
+-> Minikube Documentation
 
-
-## Research
-
-
-## Try yourself
+Deploy a sample application (echoserver)
