@@ -1,15 +1,9 @@
-# New post title here
+# Set-up and run pods
 
-## Introduction
+## Resources used 
 
+Anais Urlich YT video : https://www.youtube.com/watch?v=qt76R2G4h-0
 
-## Prerequisite
-
-
-## Use Case
+Deploying my express-test-app on the cluster (pod)
 
 
-## Research
-
-
-## Try yourself
