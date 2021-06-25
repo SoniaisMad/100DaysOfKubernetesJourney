@@ -37,7 +37,7 @@ Namespaces](Journey/006/Readme.md)
 - [ ] ☸ 7 > [Services](Journey/007/Readme.md)
 - [ ] ☸ 8 > [Deploy a standalone application](Journey/008/Readme.md)
 - [ ] ☸ 9 > [Kubernetes Volume management](Journey/009/Readme.md)
-- [ ] ☸ 10 > [](Journey/010/Readme.md)
+- [ ] ☸ 10 > [Configmap and Secrets](Journey/010/Readme.md)
 
 ## Walking down the road
 
