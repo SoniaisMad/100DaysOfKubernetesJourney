@@ -1,15 +1,5 @@
-# New post title here
+# More Ingress
 
-## Introduction
+## Study material 
 
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+---> YT video : https://www.youtube.com/watch?v=80Ew_fsV4rM
