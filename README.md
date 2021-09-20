@@ -27,25 +27,25 @@ I will document my progression here and on Twitter !
 
 ## Stepping out the door
 
-- [ ] ☸ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☸ 2 > [k8s Basic Architecture](Journey/002/Readme.md)
-- [ ] ☸ 3 > [k8s Installation - Minikube](Journey/003/Readme.md)
-- [ ] ☸ 4 > [Accessing Minikube & Deploy first sample application](Journey/004/Readme.md)
-- [ ] ☸ 5 > [Set-up and run pods](Journey/005/Readme.md)
-- [ ] ☸ 6 > [Kubernetes building blocks, e.g. Pods, ReplicaSets, Deployments,
+- [x] ☸ 1 > [My First Day](Journey/001/Readme.md)
+- [x] ☸ 2 > [k8s Basic Architecture](Journey/002/Readme.md)
+- [x] ☸ 3 > [k8s Installation - Minikube](Journey/003/Readme.md)
+- [x] ☸ 4 > [Accessing Minikube & Deploy first sample application](Journey/004/Readme.md)
+- [x] ☸ 5 > [Set-up and run pods](Journey/005/Readme.md)
+- [x] ☸ 6 > [Kubernetes building blocks, e.g. Pods, ReplicaSets, Deployments,
 Namespaces](Journey/006/Readme.md)
-- [ ] ☸ 7 > [Services](Journey/007/Readme.md)
-- [ ] ☸ 8 > [Deploy a standalone application](Journey/008/Readme.md)
-- [ ] ☸ 9 > [Kubernetes Volume management](Journey/009/Readme.md)
-- [ ] ☸ 10 > [Configmap and Secrets](Journey/010/Readme.md)
+- [x] ☸ 7 > [Services](Journey/007/Readme.md)
+- [x] ☸ 8 > [Deploy a standalone application](Journey/008/Readme.md)
+- [x] ☸ 9 > [Kubernetes Volume management](Journey/009/Readme.md)
+- [x] ☸ 10 > [Configmap and Secrets](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☸ 11 > [Ingress](Journey/011/Readme.md)
-- [ ] ☸ 12 > [more Ingress](Journey/012/Readme.md)
-- [ ] ☸ 13 > [Introduction to Autoscaling](Journey/013/Readme.md)
-- [ ] ☸ 14 > [](Journey/014/Readme.md)
-- [ ] ☸ 15 > [](Journey/015/Readme.md)
+- [x] ☸ 11 > [Ingress](Journey/011/Readme.md)
+- [x] ☸ 12 > [more Ingress](Journey/012/Readme.md)
+- [x] ☸ 13 > [Introduction to Autoscaling](Journey/013/Readme.md)
+- [x] ☸ 14 > [Ingress again but failed](Journey/014/Readme.md)
+- [x] ☸ 15 > [Jobs and CronJobs](Journey/015/Readme.md)
 - [ ] ☸ 16 > [](Journey/016/Readme.md)
 - [ ] ☸ 17 > [](Journey/017/Readme.md)
 - [ ] ☸ 18 > [](Journey/018/Readme.md)
